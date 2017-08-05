@@ -1,0 +1,7 @@
+name: LobbySystem
+version: 1.0
+main: com.gcb.lobbyselector.Main
+authors: [Arkasher, DevBlocks]
+commands:
+    reiniciar:
+    

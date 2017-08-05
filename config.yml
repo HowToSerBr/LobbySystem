@@ -1,0 +1,23 @@
+MySQL:
+    Usuario: root
+    Senha: ""
+    Database: database
+    IP: "localhost"
+    
+    
+    
+Lobby: "gcb-1"
+
+Lobbys:
+    gcb-2:
+        Nome: "Lobby 2"
+        Servidor: "gcb-2"
+    gcb-3:
+        Nome: "Lobby 3"
+        Servidor: "gcb-3"
+    gcb-4:
+        Nome: "Lobby 4"
+        Servidor: "gcb-4"
+    gcb-5:
+        Nome: "Lobby 5"
+        Servidor: "gcb-5"
